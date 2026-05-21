@@ -15,7 +15,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "Divina Estética | Centro Estético Premium en Pocitos",
+  title: "Divina Estética | Estética Integral en Pocitos",
   description: "Descubrí Divina Estética en Pocitos. Tratamientos faciales, corporales y tecnología avanzada. Piel luminosa y bienestar en un ambiente único.",
 };
 
